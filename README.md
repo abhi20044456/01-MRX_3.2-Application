@@ -4,6 +4,8 @@ MRX_3.2 is a Python-based desktop application built using `Tkinter` for the GUI.
 It allows users to upload a CSV file, process the data, and generate customized Excel reports.
 The application includes responsive UI elements, progress bars, hover effects, and an automated Excel styling feature using OpenPyXL. 
 
+# Download Link -: https://drive.google.com/drive/folders/1txzkwpj2auxUB5T3sxJwIerNk91cdZG2
+
 
 ## Introduction
 
